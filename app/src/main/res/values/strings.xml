@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TarikElHadj2.0</string>
+    <string name="Name" />
+    <string name="name">Tarik El Hadj</string>
+    <string name="vakT">Vak toevoegen</string>
+    <string name="button">Vak Toevoegen</string>
+    <string name="info">Mijn naam is Tarik ElHadj
+    \n Ik ben al 2 jaar bezig om mijn graduaat Toegepaste Informatica te behalen op Odisee
+    \n De laatste vakken die ik moet behalen zijn nog:
+    \n</string>
+</resources>
